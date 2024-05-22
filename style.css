@@ -1,0 +1,95 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 100%;
+  color: #fc640c;
+}
+
+.bouquet {
+  width: 628px;
+  height: 700px;
+  border-radius: 32px;
+}
+
+.hero-section {
+  display: flex;
+  gap: 133px;
+}
+
+.logo {
+  left: 21.54%;
+  right: 48.51%;
+  top: -18.64%;
+  bottom: 1.42%;
+}
+
+.text {
+  width: 519px;
+  height: 108px;
+
+  /* Main/Main */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+  /* Black */
+  color: #1f1f1f;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.button {
+  /* CTA Button */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  gap: 10px;
+
+  width: 214px;
+  height: 52px;
+
+  /* Orange/3 */
+  background: #fc640c;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  /* Order a bouquet */
+
+  width: 150px;
+  height: 20px;
+
+  /* Bold/Button */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  /* identical to box height, or 20px */
+
+  /* White */
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
