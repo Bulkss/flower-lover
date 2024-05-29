@@ -69,3 +69,147 @@ p {
   width: 519px;
   height: 592px;
 }
+
+.title2 {
+  left: calc(50% - 478px / 2);
+  top: 80px;
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 100%;
+  text-align: center;
+  color: #fc640c;
+}
+
+.text1 {
+  width: 633px;
+  height: 30px;
+  left: 397px;
+  top: 209px;
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.text2 {
+  width: 633px;
+  height: 60px;
+  left: 533px;
+  top: 303px;
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.text3 {
+  width: 633px;
+  height: 90px;
+  left: 619px;
+  top: 475px;
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.text4 {
+  width: 633px;
+  height: 60px;
+  left: 533px;
+  top: 647px;
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.text5 {
+  width: 633px;
+  height: 60px;
+  left: 397px;
+  top: 786px;
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.section3 {
+  left: calc(50% - 1062px / 2);
+  top: 88px;
+  font-family: "Caveat", cursive;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 100%;
+  text-align: center;
+  color: #1f1f1f;
+}
+
+.section3autor {
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 100%;
+  text-align: center;
+  color: #1f1f1f;
+}
+
+.section4 {
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 56px;
+  text-align: center;
+  color: #1f1f1f;
+}
+
+.review1 {
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #1f1f1f;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.review2 {
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #1f1f1f;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.review3 {
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #1f1f1f;
+}
+
+.review4 {
+  font-family: "Nunito Sans", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #1f1f1f;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
