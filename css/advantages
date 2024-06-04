@@ -1,0 +1,41 @@
+.advantages__title {
+  left: calc(50% - 478px / 2);
+  top: 80px;
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 100%;
+  text-align: center;
+  color: #fc640c;
+  padding: 481px 80px;
+}
+
+.advantages__list-item {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 128px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.advantages__text {
+  width: 633px;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1f1f1f;
+}
+
+.advantages__li1 {
+  margin-left: 189px;
+}
+
+.advantages__li2 {
+  margin-left: 277px;
+}
+
+.advantages__li3 {
+  margin-left: 315px;
+}
