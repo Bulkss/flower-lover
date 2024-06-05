@@ -1,6 +1,7 @@
 @import url("./css/base.css");
 @import url("./css/hero.css");
-@import url("./css/advantages");
+@import url("./css/advantages.css");
+@import url("./css/review.css");
 
 .section3 {
   left: calc(50% - 1062px / 2);
@@ -30,47 +31,3 @@
   color: #1f1f1f;
 }
 
-.review1 {
-  font-family: "Nunito Sans", cursive;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 150%;
-  text-align: center;
-  color: #1f1f1f;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.review2 {
-  font-family: "Nunito Sans", cursive;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 150%;
-  text-align: center;
-  color: #1f1f1f;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.review3 {
-  font-family: "Nunito Sans", cursive;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 150%;
-  text-align: center;
-  color: #1f1f1f;
-}
-
-.review4 {
-  font-family: "Nunito Sans", cursive;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 150%;
-  text-align: center;
-  color: #1f1f1f;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
