@@ -54,3 +54,19 @@
   width: 519px;
   height: 592px;
 }
+
+.nav-link {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 752px;
+height: 27px;
+right: 80px;
+top: calc(50% - 27px/2 - 0.5px);
+
+
+}
