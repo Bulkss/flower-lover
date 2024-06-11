@@ -1,0 +1,27 @@
+.section-quote {
+    padding-top: 88px;
+    padding-bottom: 88px;
+    background-image: url("../img/quote/pexels-anna-krupa-16423256\ 1.jpg");
+}
+
+.section3 {
+    left: calc(50% - 1062px / 2);
+    top: 88px;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: center;
+    color: #1f1f1f;
+}
+
+.section3autor {
+    font-family: "Nunito Sans", cursive;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 100%;
+    text-align: center;
+    color: #1f1f1f;
+    padding-top: 48px;
+}
+

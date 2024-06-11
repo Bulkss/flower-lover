@@ -2,32 +2,7 @@
 @import url("./css/hero.css");
 @import url("./css/advantages.css");
 @import url("./css/review.css");
-
-.section3 {
-  left: calc(50% - 1062px / 2);
-  top: 88px;
-  font-family: "Caveat", cursive;
-  font-weight: 400;
-  font-size: 48px;
-  line-height: 100%;
-  text-align: center;
-  color: #1f1f1f;
-}
-
-.section3autor {
-  font-family: "Nunito Sans", cursive;
-  font-weight: 400;
-  font-size: 28px;
-  line-height: 100%;
-  text-align: center;
-  color: #1f1f1f;
-}
-
-.section4 {
-  font-family: "Caveat", cursive;
-  font-weight: 700;
-  font-size: 56px;
-  text-align: center;
-  color: #1f1f1f;
-}
+@import url("./css/quote.css");
+@import url("./css/form.css");
+@import url("./css/features.css");
 

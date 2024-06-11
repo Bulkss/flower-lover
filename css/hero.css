@@ -15,12 +15,10 @@
 .hero-section {
   display: flex;
   gap: 133px;
-  padding: 32px 80px;
+  padding-top: 32px;
+  padding-bottom: 32px;
   justify-content: center;
   align-items: center;
-  width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .text {
@@ -52,53 +50,33 @@
   padding: 0px;
   gap: 52px;
   width: 519px;
-  height: 592px;
 }
 
-.nav-link1 {
+.nav-link {
   font-weight: 400;
   font-size: 18px;
   line-height: 150%;
   color: #1F1F1F;
-  padding: 32px 685px 33px 608px;
+  padding: 32px;
+  padding-bottom: 33px;
+  display: block;
 }
 
-.nav-link2 {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 150%;
-  color: #1F1F1F;
-  padding:32px 526px 33px 803px;
+.nav-list {
+  display: flex;
+  gap: 48px;
+  padding: 32px 80px;
+  align-items: center;
+  margin: 0;
 }
 
-.nav-link3 {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 150%;
-    color: #1F1F1F;
-    padding: 32px 410px 33px 962px;
-}
-
-.nav-link4 {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 150%;
-  color: #1F1F1F;
-  padding: 32px 294px 33px 1078px;
-}
-
-.nav-link5 {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 150%;
-  color: #1F1F1F;
-  padding: 32px 199px 33px 1194px;
-}
-
-.nav-link6 {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 150%;
-  color: #1F1F1F;
-  padding: 32px 80px 33px 1289px;
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+width: 1280px;
+padding-left: 80px;
+padding-right: 80px;
+margin-left: auto;
+margin-right: auto;
 }
